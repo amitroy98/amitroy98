@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitroy98
 - 👀 I’m interested in geo-informatics & Earth Observation Satellite
-- 🌱 I’m currently learning web-designing
+- 🌱 I’m currently learning Web GIS Development.
 - 💞️ I’m looking to collaborate on any gis Project
 - 📫 How to reach me ...akroy19987@gmail.com
 
